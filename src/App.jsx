@@ -1,4 +1,4 @@
-const title = 'React'';
+const title = 'React';
 
 function App() {
    return (
